@@ -1,133 +1,120 @@
 {
-    "basics": {
-        "name": "Rujul Dudhat",
-        "label": "Student",
-        "picture": "https://instagram.fjai2-3.fna.fbcdn.net/v/t51.2885-19/284601343_423776492940251_549173347437486124_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fjai2-3.fna.fbcdn.net&_nc_cat=111&_nc_ohc=CMz2hLoVP6kAX-jGMlz&tn=1uZNZqgPGoOeQcB_&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-NXPVpuBSoy4SAP2cHNCdRdWHZ58fshRv94j1jD58lsA&oe=62D51C76&_nc_sid=8fd12b",
-        "email": "2021kucp1016@iiitkota.ac.in",
-        "phone": "+918488903211",
-        "website": "",
-        "summary": "I'm a student at Indian Institute of Information Technology, Kota (India), currently pursuing my B.Tech in Computer Science & Engineering. I love doing Competitve Programming and studying Web Development.",
-        "location": {
-            "address": "Ahmedabad",
-            "postalCode": "382350",
-            "city": "Ahmedabad",
-            "countryCode": "India",
-            "region": "India"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "Rujul_14",
-                "url": "https://twitter.com/Rujul_14"
-            },
-            {
-                "network": "Github",
-                "username": "RujulP14",
-                "url": "https://github.com/RujulP14"
-            },
-            {
-                "network": "linkedin",
-                "username": "Rujul Dudhat",
-                "url": "https://www.linkedin.com/in/rujul-dudhat-7b530b226/"
-            },
-            {
-                "network": "Instagram",
-                "username": "rujul_09",
-                "url": "https://www.instagram.com/rujul_09/"
-            }
-        ]
-    },
-    "work": [
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        },
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        },
-        {
-            "company": "",
-            "position": "",
-            "website": "",
-            "startDate": "",
-            "endDate": "",
-            "summary": ""
-        }
-    ],
-    "education": [
-        {
-            "institution": "Indian Institute of Information Technology,Kota",
-            "area": "Engineering",
-            "studyType": "Bachelor",
-            "startDate": "2022",
-            "endDate": "2025",
-            "gpa": "",
-            "courses": [
-                "Computer Science & Engineering"
-            ]
-        }
-    ],
-    "awards": [
-        {
-            "title": "3322nd Rank in Kick Start 2021",
-            "awarder": "Google",
-            "date": "23rd April 2022"
-        }
-    ],
-    "publications": [
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        },
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        },
-        {
-            "title": "",
-            "details": "",
-            "link": ""
-        }
-    ],
-    "skills": [
-        {
-            "name": "",
-            "level": "Beginner",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript",
-                "C/C++",
-                "Java",
-                "Python",
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Native speaker"
-        }
-    ],
-    "interests": [
-        {
-            "name": "Playing",
-            "keywords": [
-                "Volleyball",
-                "Badminton",
-                "Cricket",  
-            ]
-        }
-    ]
+	"basics": {
+		"name": "Rujul Dudhat",
+		"label": "Student",
+		"picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+		"email": "2021kucp1016@iiitkota.ac.in",
+		"phone": "+918488903211",
+		"website": "",
+		"summary": "I'm a student at Indian Institute of Information Technology, Kota (India), currently pursuing my B.Tech in Computer Science & Engineering. I love doing Competitve Programming and studying Web Development.",
+		"location": {
+			"address": "Ahmedabad",
+			"postalCode": "382350",
+			"city": "Ahmedabad",
+			"countryCode": "India",
+			"region": "India"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Rujul_14",
+				"url": "https://twitter.com/Rujul_14"
+			},
+			{
+				"network": "Github",
+				"username": "RujulP14",
+				"url": "https://github.com/RujulP14"
+			},
+			{
+				"network": "linkedin",
+				"username": "Rujul Dudhat",
+				"url": "https://www.linkedin.com/in/rujul-dudhat-7b530b226/"
+			},
+			{
+				"network": "Instagram",
+				"username": "rujul_09",
+				"url": "https://www.instagram.com/rujul_09/"
+			}
+		]
+	},
+	"work": [{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		}
+	],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2022",
+		"endDate": "2025",
+		"gpa": "",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "3322st Rank in Kick Start 2021",
+		"awarder": "Google",
+		"date": "23rd April 2022"
+	}],
+	"publications": [{
+			"title": "",
+			"details": "",
+			"link": ""
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		}
+	],
+	"skills": [{
+		"name": "",
+		"level": "Beginner",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript",
+			"C/C++",
+			"Java",
+			"Python"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+		"name": "Playing",
+		"keywords": [
+			"Volleyball",
+			"Badminton",
+			"Cricket"
+		]
+	}]
 }
